@@ -1,0 +1,21 @@
+{
+  "resolved": 40,
+  "adaptive_buckets": [
+    {
+      "bucket": "1h:neutral",
+      "samples": 40,
+      "wins": 0,
+      "posterior": 0.1,
+      "bonus": -5.0
+    }
+  ],
+  "rejection_outcomes": [
+    {
+      "reason": "reject",
+      "samples": 40,
+      "favorable_rate": 0.0,
+      "avg_mfe_atr": 0.2000000000000001,
+      "avg_mae_atr": 2.0
+    }
+  ]
+}

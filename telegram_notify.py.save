@@ -1,0 +1,4 @@
+import requests
+
+BOT_TOKEN = "8740970132:AAG2NybND1zpncGa2DotHHedtb9Shs59unk"
+

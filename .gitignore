@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Runtime
+logs/
+archive/
+data/
+
+# Databases
+*.sqlite3
+
+# CSV exports
+*.csv
+
+# Runtime state
+bot_status.json
+events.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
